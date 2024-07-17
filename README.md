@@ -4,7 +4,7 @@
 
 ## Sobre Mí
 
-Bienvenidos, soy Luis Alfredo Durán Flores, un apasionado de la tecnología y estudiante de Ingeniería en Sistemas de Información Industrial y Tecnologías en el Complejo Regional Centro de BUAP. Desde muy joven, he estado fascinado por cómo la tecnología puede transformar y mejorar nuestras vidas. Mi objetivo es utilizar mis habilidades y conocimientos para desarrollar soluciones innovadoras que tengan un impacto positivo en la sociedad. Soy una persona creativa, responsable e innovadora, siempre en busca de mejorar y aprender. Me apasiona resolver problemas y desarrollar soluciones tecnológicas que inspiren y lideren a los equipos al éxito.
+Bienvenidos, soy Luis Alfredo Durán Flores, un apasionado de la tecnología y estudiante de Ingeniería en Sistemas y Tecnologías de la Información Industrial en el Complejo Regional Centro de BUAP. Desde muy joven, he estado fascinado por cómo la tecnología puede transformar y mejorar nuestras vidas. Mi objetivo es utilizar mis habilidades y conocimientos para desarrollar soluciones innovadoras que tengan un impacto positivo en la sociedad. Soy una persona creativa, responsable e innovadora, siempre en busca de mejorar y aprender. Me apasiona resolver problemas y desarrollar soluciones tecnológicas que inspiren y lideren a los equipos al éxito.
 
 ## Educación
 
@@ -47,8 +47,8 @@ Desarrollo de mi portafolio personal utilizando NestJS para el backend y Angular
 
 - **Correo Electrónico**: LuissDuraann@gmail.com
 - **LinkedIn**: [Luis Alfredo Durán Flores](https://www.linkedin.com/in/luissduraann/)
-- **GitHub**: [Luis Alfredo Durán Flores](https://github.com/LuissDuraann)
-- **Instagram**: [Luis Alfredo Durán Flores](https://www.instagram.com/luissduraann/)
+- **GitHub**: [LuissDuraann-GitHub](https://github.com/LuissDuraann)
+- **Instagram**: [LuissDuraan-Ig](https://www.instagram.com/luissduraann/)
 
 ---
 
