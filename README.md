@@ -1,20 +1,55 @@
+# Luis Alfredo Durán Flores
 
-### Pasos para crear el README en GitHub:
+![Perfil](URL_DE_TU_IMAGEN_DE_PERFIL)
 
-1. **Nombre del Proyecto**: Dale un nombre significativo a tu proyecto.
-2. **Logo del Proyecto**: Si tienes un logo, puedes incluirlo con la sintaxis `![Logo del Proyecto](URL_DEL_LOGO)`. Si no tienes un logo, puedes omitir esta línea.
-3. **Descripción**: Proporciona una descripción clara y concisa de tu proyecto.
-4. **Características**: Enumera las principales características o funcionalidades de tu proyecto.
-5. **Instalación**: Proporciona instrucciones detalladas para clonar, navegar, e instalar las dependencias de tu proyecto.
-6. **Uso**: Incluye ejemplos de cómo usar el proyecto después de la instalación.
-7. **Contribución**: Proporciona pautas claras sobre cómo otros desarrolladores pueden contribuir a tu proyecto.
-8. **Licencia**: Indica la licencia bajo la cual se distribuye tu proyecto.
-9. **Contacto**: Proporciona información de contacto para que otros desarrolladores puedan comunicarse contigo.
+## Sobre Mí
 
-Para agregar este archivo README a tu repositorio en GitHub:
+Bienvenidos, soy Luis Alfredo Durán Flores, un apasionado de la tecnología y estudiante de Ingeniería en Sistemas de Información Industrial y Tecnologías en el Complejo Regional Centro de BUAP. Desde muy joven, he estado fascinado por cómo la tecnología puede transformar y mejorar nuestras vidas. Mi objetivo es utilizar mis habilidades y conocimientos para desarrollar soluciones innovadoras que tengan un impacto positivo en la sociedad. Soy una persona creativa, responsable e innovadora, siempre en busca de mejorar y aprender. Me apasiona resolver problemas y desarrollar soluciones tecnológicas que inspiren y lideren a los equipos al éxito.
 
-1. Crea un archivo llamado `README.md` en la raíz de tu repositorio.
-2. Copia y pega el contenido de la plantilla anterior en el archivo `README.md`.
-3. Realiza un commit del archivo `README.md` en tu repositorio.
+## Educación
 
-Esto hará que tu repositorio se vea más profesional y ayudará a otros a entender rápidamente de qué se trata tu proyecto y cómo pueden contribuir.
+- **BUAP** - Ingeniería en Sistemas de Información Industrial y Tecnologías (Cursando)
+- **Bachillerato Tecnológico** - Benemérita Universidad Autónoma de Puebla, Título Técnico en Gestión de Proyectos Tecnológicos
+
+## Experiencia
+
+### TIM Trefilados Inoxidables de México
+- **Practicante en Sistemas TI**
+- Participando en el Primer Modelo DUAL en BUAP
+- Desarrollando proyectos tecnológicos de alto impacto relacionados con mi carrera
+
+## Habilidades
+
+- **Lenguajes de Programación**: PHP, JavaScript, TypeScript, HTML, CSS
+- **Frameworks y Librerías**: Codeigniter 4, Composer, NestJs, Angular, Bootstrap 5
+- **Herramientas**: Unity, Vuforia, Blender, Figma, Excel
+- **Bases de Datos**: MySQL, MongoDB
+
+## Proyectos
+
+### Control de Gestión del Almacén
+Desarrollo de un sistema para llevar el control de entradas y salidas del almacén, seguimientos de stocks bajos, control de órdenes de compra, control de electrónicos, seguimientos de gastos desde dashboard y muchas más funcionalidades.
+
+### Control de Producción
+Implementación de un sistema para tener un control más certero de los materiales en las áreas de producción, con el objetivo de identificar y resolver problemas de calidad y rechazo de materia prima. Este sistema beneficia a varias áreas como planificación, embarques, producción y almacén.
+
+### Proyecto Personal
+Desarrollo de mi portafolio personal utilizando NestJS para el backend y Angular para el frontend.
+
+## Intereses
+
+- Innovación y emprendimiento
+- Desarrollo de soluciones tecnológicas
+- Trabajo en equipo y liderazgo
+- Aprendizaje continuo y mejora personal
+
+## Contacto
+
+- **Correo Electrónico**: LuissDuraann@gmail.com
+- **LinkedIn**: [Luis Alfredo Durán Flores](https://www.linkedin.com/in/luissduraann/)
+- **GitHub**: [Luis Alfredo Durán Flores](https://github.com/LuissDuraann)
+- **Instagram**: [Luis Alfredo Durán Flores](https://www.instagram.com/luissduraann/)
+
+---
+
+"Soy una persona creativa, responsable e innovadora, siempre en busca de mejorar y aprender. Me apasiona resolver problemas y desarrollar soluciones tecnológicas que inspiren y lideren a los equipos al éxito."
